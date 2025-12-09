@@ -24,20 +24,19 @@ function filtro(array, lettera) {
 
 }
 
-   let stringa = filtro(names, "A")   
-
-   
-   console.log(stringa);
-  
-
-   
-
-    
-
-
 
 // Invoca la funzione qui e stampa il risultato in console
 
+let stringa = filtro(names, "A")   
 
+console.log(stringa);
 
 //Risultato atteso se si passa la lettera A: ["Anna", "Adele", "Alessandra"]
+
+
+
+
+
+
+
+   
